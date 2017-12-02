@@ -1,0 +1,22 @@
+﻿{"clientslist":[
+	{"header":"Список моих клиентов"},
+	{"clients":[
+		{"id":100,
+		"name":"Вася",
+		"adress":{"city":"Киев","street":"Цветочная улица","building":"3-к","app_num": "4"},
+		"contacts":{"phone_num":["096 5031718"],"email":"123@mail.ru","skype":"Vasildzhan"}
+		},
+		{"id":150,
+		"name":"Петя",
+		"adress":{"city":"Харьков","street":"Площа визволителів","building":"2","app_num":"1"},
+		"contacts":{"phone_num":["095 12345678","097 23456789","098 34567890"],"email":"Petya1993@gmail.com","skype":"Pedro1"}
+		},
+		{"id":138,
+		"name":"Петя",
+		"adress":{"city":"Киев","street":"Ромена Ролана вулиця","building":"5","app_num":"6"},
+		"contacts":{"phone_num":["037 98765432", "044 12345464"],"email":"PPP1@gmail.com","skype":"PPP3"}
+		}
+	]
+	}
+]
+}

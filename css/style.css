@@ -1,0 +1,28 @@
+body {color: gray;
+      max-width: 800px}
+h2 {color: black;
+ max-width: 1000px}
+
+famale {
+  font-family:"Arial", sans-serif;
+  color: red;
+  background: white;
+  font-size: 120%}
+male {
+  color: blue;
+  font-family:"Times New Roman", sans-serif;
+  background: yellow;
+  font-size: 80%}
+name_style {
+  color: black;
+  font-family:"Cambria", sans-serif;
+  background: green}
+user_style {
+  color: black;
+  font-family:"якийсь помилковий шрифт", sans-serif}
+      
+
+
+
+
+

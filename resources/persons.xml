@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<clientslist>
+<header>Список моих клиентов</header>
+<clients>	
+<client>	
+		<id>100</id>
+		<name>Вася</name>
+		<adress>
+			<city>Киев</city>
+			<street>Цветочная улица</street>
+			<building>3-к</building>
+			<app_num>4</app_num>
+		</adress>
+		<contacts>
+			<phone_num>096 5031718</phone_num>
+			<email>123@mail.ru</email>
+			<skype>Vasildzhan</skype>
+		</contacts>
+	</client >
+	<client>
+		<id>150</id>
+		<name>Петя</name>
+		<adress>
+			<city>Харьков</city>
+			<street>Площа визволителів</street>
+			<building>2</building>
+			<app_num>1</app_num>
+		</adress>
+		<contacts>
+			<phone_num>095 12345678</phone_num>
+			<phone_num>097 23456789</phone_num>
+			<phone_num>098 34567890</phone_num>
+			<email>Petya1993@gmail.com</email>
+			<skype>Pedro18</skype>
+		</contacts>
+	</client>
+	<client>
+		<id>138</id>
+		<name>Петя</name>
+		<adress>
+			<city>Киев</city>
+			<street>Ромена Ролана вулиця</street>
+			<building>5</building>
+			<app_num>6</app_num>
+		</adress>
+		<contacts>
+			<phone_num>037 98765432</phone_num>
+			<phone_num>044 12345464</phone_num>
+			<email>PPP1@gmail.com</email>
+			<skype>PPP3</skype>
+		</contacts>
+	</client>
+</clients>
+</clientslist>
